@@ -23,7 +23,8 @@ Just run the following notebook:- https://colab.research.google.com/drive/1oF5LA
 ### Solution 2: RAG Pipeline
 - Utilized Phi-3.5-mini-instruct, a 3.5-billion parameter model, combined with a FAISS vector database.
 - Enables scalable, knowledge-intensive question generation by ingesting entire documents.
-### Future Work
+***
+## Future Work
 #### Domain-Specific Fine-Tuning:
 Fine-tune the model for academic disciplines like mathematics, engineering, or medical science to enhance domain-specific question quality.
 #### Enhanced User Interface:
