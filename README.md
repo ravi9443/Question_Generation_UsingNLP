@@ -26,17 +26,17 @@ Just run the following notebook:- https://colab.research.google.com/drive/1oF5LA
 ***
 ## Future Work
 #### Domain-Specific Fine-Tuning:
-Fine-tune the model for academic disciplines like mathematics, engineering, or medical science to enhance domain-specific question quality.
+- Fine-tune the model for academic disciplines like mathematics, engineering, or medical science to enhance domain-specific question quality.
 #### Enhanced User Interface:
-Develop an intuitive and interactive front-end to improve accessibility and user experience.
+- Develop an intuitive and interactive front-end to improve accessibility and user experience.
 #### Support for Additional Formats:
 
-Extend support for documents like scanned PDFs through OCR and handwritten notes for broader usability.
+- Extend support for documents like scanned PDFs through OCR and handwritten notes for broader usability.
 #### Saving and Sharing Outputs:
 
-Allow users to save, download, and share generated questions, enabling collaborative workflows.
+- Allow users to save, download, and share generated questions, enabling collaborative workflows.
 #### Deployment and Scalability:
 
-Deploy the solution as a web or cloud-based service to support real-time, large-scale use cases in education and corporate training.
+- Deploy the solution as a web or cloud-based service to support real-time, large-scale use cases in education and corporate training.
 ***
 By addressing these future directions, the project has the potential to become a comprehensive tool for automating question generation, enhancing the learning and evaluation experience for a wide range of users.
