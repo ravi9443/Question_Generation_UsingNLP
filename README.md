@@ -1,4 +1,3 @@
-Collab Link-https://colab.research.google.com/drive/1oUyTepwk-sIkugraniJWhT65dSVN83EG
 # Question Generation Using NLP
 
 ## Overview
@@ -17,7 +16,7 @@ This project focuses on Automatic Question Generation (AQG), leveraging state-of
 
 ***
 ## Getting Started
-Just run the following notebook:- 
+Just run the following notebook:- https://colab.research.google.com/drive/1oF5LAHUK1kRVYxqOVLWmgif_XaXHSDO_#scrollTo=kuPehzjdGjeN
 ***
 ## Architecture
 ### Solution 1: Transformer Fine-Tuning
