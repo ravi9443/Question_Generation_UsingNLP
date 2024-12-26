@@ -14,8 +14,9 @@ This project focuses on Automatic Question Generation (AQG), leveraging state-of
 - Upload PDF, DOCX, or TXT files for question generation.
 - Generate questions tailored to the provided context with specific user instructions.
 - Supports scalable question generation using Transformer-based models and Retrieval-Augmented Generation (RAG) pipelines.
+
 ***
-## Getting Startted
+## Getting Started
 Just run the following notebook:- 
 ***
 ## Architecture
