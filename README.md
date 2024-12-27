@@ -23,9 +23,13 @@ Just run the following notebook:- https://colab.research.google.com/drive/1oF5LA
 ### Solution 1: Transformer Fine-Tuning
 - Used a pre-trained T5-small model fine-tuned on the SQuAD dataset for short-answer question generation.
 - Highlights the utility of fine-tuning to enhance task-specific expertise in models.
+![image alt](https://github.com/ravi9443/Question_Generation_UsingNLP/blob/main/Images/img1.png)
 ### Solution 2: RAG Pipeline
 - Utilized Phi-3.5-mini-instruct, a 3.5-billion parameter model, combined with a FAISS vector database.
 - Enables scalable, knowledge-intensive question generation by ingesting entire documents.
+![image alt](https://github.com/ravi9443/Question_Generation_UsingNLP/blob/main/Images/img2.png)
+![image alt](https://github.com/ravi9443/Question_Generation_UsingNLP/blob/main/Images/img3.png)
+https://github.com/ravi9443/Question_Generation_UsingNLP/blob/main/Images/img3.png
 ***
 ## Future Work
 #### Domain-Specific Fine-Tuning:
