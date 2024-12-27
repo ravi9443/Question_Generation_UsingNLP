@@ -12,7 +12,7 @@ This project focuses on Automatic Question Generation (AQG), leveraging state-of
 - Generate questions tailored to the provided context with specific user instructions.
 - Supports scalable question generation using Transformer-based models and Retrieval-Augmented Generation (RAG) pipelines.
 ***
-https://github.com/user-attachments/assets/0a70e994-9775-4859-9afa-b4aac150fe3f
+https://github.com/user-attachments/assets/2a36c080-aba2-4f52-82f8-cca9d0c2bc29
 
 
 ***
