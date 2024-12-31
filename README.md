@@ -29,7 +29,6 @@ Just run the following notebook:- https://colab.research.google.com/drive/1oF5LA
 - Enables scalable, knowledge-intensive question generation by ingesting entire documents.
 ![image alt](https://github.com/ravi9443/Question_Generation_UsingNLP/blob/main/Images/img2.png)
 ![image alt](https://github.com/ravi9443/Question_Generation_UsingNLP/blob/main/Images/img3.png)
-https://github.com/ravi9443/Question_Generation_UsingNLP/blob/main/Images/img3.png
 ***
 ## Future Work
 #### Domain-Specific Fine-Tuning:
